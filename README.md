@@ -1,4 +1,4 @@
-## Eu sou o Felipe Teixeira da Silva!
+## Eu sou Felipe Teixeira da Silva!
 
 <div align="center">
   <a href="https://github.com/Felipetds">
